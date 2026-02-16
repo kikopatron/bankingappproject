@@ -1,0 +1,9 @@
+Day 2
+Create a Banking App
+Prompt the User to Input their name
+How much they would like to deposit?
+How much they would like to withdraw?
+And calculate the ending balance. 
+
+Lastly ask would you like to continue after they did that one time: if they would then ask these questions 
+all over again. (Hint: your going to have to use a type of loop here.) And also a if-else statement.
